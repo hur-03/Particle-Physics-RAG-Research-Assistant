@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
+faiss_index/
+outputs/
+crew_data/

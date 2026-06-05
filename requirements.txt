@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+openai
+groq
+faiss-cpu
+pypdf
+python-dotenv
+tavily-python
+pandas
+numpy
+matplotlib
+scikit-learn
