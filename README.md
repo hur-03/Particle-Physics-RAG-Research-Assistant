@@ -88,6 +88,13 @@ OPENAI_API_KEY=your_key
 GROQ_API_KEY=your_key
 TAVILY_API_KEY=your_key
 ```
+### Add Research Files
+
+Create a `crew_data` file to store research papers and other data
+
+```crew_data
+Upload files here
+```
 
 ### Run Application
 
@@ -117,9 +124,16 @@ http://localhost:8501
 
 ## Future Improvements
 
-- Local LLM support (Ollama)
-- Chroma vector database comparison
 - PDF report export
 - Citation generation
 - Cloud deployment
 - Additional specialised physics agents
+
+
+## Visualisation of Embedding using PCA
+<img width="987" height="690" alt="image" src="https://github.com/user-attachments/assets/3bb524f2-f0d9-4897-811d-0cacd272ee7a" />
+
+## Screenshot of Application
+
+<img width="1265" height="704" alt="image" src="https://github.com/user-attachments/assets/e5fe9a71-38fb-4ecc-87e8-2c6bc058a4d3" />
+
